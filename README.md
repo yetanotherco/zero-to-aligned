@@ -8,6 +8,8 @@ A curated list of resources to become aligned 🟩
 ## Ethereum
 
 - [A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/en/whitepaper/) - Ethereum Whitepaper
+- [The history of Ethereum](https://ethereum.org/en/history/)
+- [Ethereum community hub](https://ethereum.org/en/community/)
 
 ## Eigen Layer
 
