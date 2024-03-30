@@ -18,3 +18,7 @@ A curated list of resources to become aligned 🟩
 - [You Could've Invented EigenLayer](https://www.blog.eigenlayer.xyz/ycie/)
 - [EigenLayer Docs](https://docs.eigenlayer.xyz/eigenlayer/overview/)
 - [Eigen Layer Core contracts](https://github.com/Layr-Labs/eigenlayer-contracts)
+
+## Aligned Layer
+
+- [Aligned Layer: universal verification layer](https://whitepaper.alignedlayer.com/) - Aligned Layer white paper.
