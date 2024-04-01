@@ -9,6 +9,7 @@ A curated list of resources to become aligned 🟩
 
 - [A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/en/whitepaper/) - Ethereum white paper.
 - [The history of Ethereum](https://ethereum.org/en/history/)
+- [What is Web 3.0?](https://gavwood.com/web3lt.html) - by Gavin Wood
 - [Ethereum for everyone](https://ethereum.org/en/layer-2/) - Ethereum L2s.
 - [Ethereum community hub](https://ethereum.org/en/community/)
 
