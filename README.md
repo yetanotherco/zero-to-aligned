@@ -22,6 +22,7 @@ A curated list of resources to become aligned 🟩
 - [You Could've Invented EigenLayer](https://www.blog.eigenlayer.xyz/ycie/)
 - [EigenLayer Docs](https://docs.eigenlayer.xyz/eigenlayer/overview/)
 - [EigenLayer Core contracts](https://github.com/Layr-Labs/eigenlayer-contracts)
+- [EigenLayer middleware](https://github.com/Layr-Labs/eigenlayer-middleware)
 - [What Is EigenLayer? The ULTIMATE Guide To EigenLayer & Restaking](https://youtu.be/dT74h_d6Y0E?si=9rMOKRrGdMACzRtN)
 
 ## Aligned Layer
