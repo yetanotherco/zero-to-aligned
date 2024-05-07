@@ -29,3 +29,4 @@ A curated list of resources to become aligned 🟩
 
 - [Aligned Layer: universal verification layer](https://whitepaper.alignedlayer.com/) - Aligned Layer white paper.
 - [Aligned Layer](https://github.com/yetanotherco/aligned_layer) - Aligned Layer repo.
+- [Aligned Layer: extending the zk capabilities of Ethereum](https://www.youtube.com/watch?v=jKy-Juy5O40)
